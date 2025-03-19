@@ -1,0 +1,42 @@
+
+
+    Check Processor Support for Virtualization:
+    check if it has Intel VT-x  or AMD-V. You can enable Intel virtualization by going into your computer's BIOS/UEFI settings when you start up (F2, DEL, or ESC) and looking for an option that says "Intel Virtualization Technology." Turn it on if it's off.
+
+    Reasons Behind Cloud Success:
+    Pros:
+        Scalability: You can easily add or remove resources based on what you need.
+        Cost Efficiency: Saves money on physical hardware and maintenance.
+        Accessibility: You can access your data and apps from anywhere with the internet.
+    Cons:
+        Security Concerns: Risk of data theft and losing control over your information.
+        Downtime: If your internet goes down, you can't access your services.
+        Vendor Lock-In: It can be hard to move your data and services to other providers.
+
+    Primary Function of a Hypervisor:
+    A hypervisor's main job is to create and manage virtual machines  by sharing physical resources and ensuring each VM runs separately.
+
+    What is a Virtual Machine?:
+        A virtual machine  is a software version of a physical computer that can run its own operating system and programs, just like a real computer.
+
+    Benefits of Using Virtual Machines:
+        They help use resources better, keep applications separate, make backups easier, allow testing without extra hardware, and let you run different operating systems on one computer.
+
+    Five Use Cases of Virtual Machines:
+        Combining multiple servers into one.
+        Creating spaces for developing and testing software.
+        Running older applications.
+        Preparing for emergencies with backup solutions.
+        Creating safe spaces for security checks.
+
+    Guest Operating System:
+         The operating system that runs on a virtual machine.
+
+    Virtual Machine Isolation:
+         Virtual machines work separately and do not interfere with each other or the main computer.
+
+    Benefit of Virtual Machine Portability:
+         It lets you move virtual machines between different physical computers that have compatible hypervisors.
+
+    Purpose of Cloning a Virtual Machine:
+        Cloning a virtual machine makes an exact copy of an existing VM, which is helpful for testing, backing up, or quickly setting up similar environments.
